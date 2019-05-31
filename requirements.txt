@@ -1,3 +1,4 @@
 bluepy
+crc16
+curses-menu
 pycrypto
-cursesmenu
